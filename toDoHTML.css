@@ -1,0 +1,13 @@
+#enter {
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: #04A1BF;
+    background-color: #025F70;
+    transition: all 0.75s ease;
+    -webkit-transition: all 0.75s ease;
+    -moz-transition: all 0.75s ease;
+    -ms-transition: all 0.75s ease;
+    -o-transition: all 0.75 ease;
+    font-weight: normal;
+}
