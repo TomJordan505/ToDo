@@ -1,0 +1,37 @@
+body {
+    background-color: coral;
+    text-align: center;
+    font-family: Arial ;
+}
+
+h1{
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+p{
+    font-weight: 450;
+}
+
+#first{
+    color: burlywood;
+}
+
+#second{
+    color: aquamarine;
+}
+
+#third{
+    color: chartreuse;
+
+}
+
+#enter{
+
+
+}
+#enter:hover{
+    background-color: #02798F;
+    color: #FFCD5D;
+
+}
